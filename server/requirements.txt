@@ -1,0 +1,23 @@
+# Core Framework
+Django==5.2.18
+djangorestframework==3.18.3
+
+# Database Adapter (PostgreSQL)
+psycopg==3.3.6
+psycopg-binary==3.3.6
+
+# API Documentation & OpenAPI 3.0
+drf-spectacular==0.30.0
+PyYAML==6.0.3
+uritemplate==4.2.0
+
+# Authentication (Firebase Admin SDK)
+firebase-admin>=6.5.0
+
+# Environment Management
+python-dotenv>=1.0.1
+
+# Utility & Validation
+asgiref==3.12.1
+sqlparse==0.6.0
+tzdata==2026.5
